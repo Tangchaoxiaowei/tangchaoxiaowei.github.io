@@ -3,9 +3,9 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-
-> (†: equal contribution, ~: corresponding author)
 <!--
+> (†: equal contribution, ~: corresponding author)
+
 ## Conference Paper
 
 - [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
