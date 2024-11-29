@@ -3,7 +3,7 @@ layout: page
 permalink: /startups/index.html
 title: Startups
 ---
-
+<!--
 ## Motivation
 
 As a youth from southern Fujian (Hokkien), entrepreneurial spirit runs in my family's and my own bones. From a young age, we were instilled with the belief that one must become their own "boss" and setup their own business. My aspiration is to become a serial entrepreneur.<br>
@@ -64,4 +64,5 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 <div>
 <img src="https://caihanlin.com/images/teams/teams4.jpg">
 </div>
+-->
 <br>
