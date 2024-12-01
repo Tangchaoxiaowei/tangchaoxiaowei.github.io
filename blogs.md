@@ -39,9 +39,9 @@ title: Blogs
 ## Leave a Message 欢迎留言
 
 <br>
-
+<!--
 {% include disqus.html %} 
-
+-->
 <br>
 <!--
 ## Web Star History 点赞记录-->
